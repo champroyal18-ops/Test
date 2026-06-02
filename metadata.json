@@ -1,0 +1,6 @@
+{
+  "name": "NEET Test Series & AI Prep Companion",
+  "description": "Comprehensive NEET Mock Test Series and NCERT prep companion, featuring Physics, Chemistry, and Biology (Botany & Zoology) quizzes, authentic NEET layout engine, persistent analytics, and AI-powered question evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
